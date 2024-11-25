@@ -1,0 +1,28 @@
+.Skills-container {
+display: flex;
+justify-content: space-between;
+
+}
+
+.Skillset h2 {
+  display: flex;
+  justify-content: flex-end;
+  
+}
+
+.center-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: 0;
+    text-align: center; 
+}
+
+.center-page img {
+  display: flex;
+  justify-content: center;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
